@@ -11,11 +11,11 @@
     "env": {
         "APP_ID": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "17150103"
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "54cf8742804b5ffaa10df2b53ef91fe2"
         },
         "OWNER": {
             "description": "Your username without @.",
@@ -31,7 +31,7 @@
         },
         "BOT_TOKEN": {
             "description": "ID of the message to edit.",
-            "value": ""
+            "value": "5245204912:AAFt4ZVoo7mi3pZ1yBWJvASlHOYmSQICN2M"
         }
     },
     "buildpacks": [
