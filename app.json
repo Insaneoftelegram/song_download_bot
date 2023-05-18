@@ -11,15 +11,15 @@
     "env": {
         "APP_ID": {
             "description": "Get this value from my.telegram.org",
-            "value": "17150103"
+            "value": "17555551"
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
-            "value": "54cf8742804b5ffaa10df2b53ef91fe2"
+            "value": "0b47bd724beaecacfd54f1dba6919333"
         },
         "OWNER": {
             "description": "Your username without @.",
-            "value": "shamilhabeeb"
+            "value": "Insane"
         },
         "START_MSG": {
             "description": "Start Message of BoT",
@@ -31,7 +31,7 @@
         },
         "BOT_TOKEN": {
             "description": "ID of the message to edit.",
-            "value": "5245204912:AAFt4ZVoo7mi3pZ1yBWJvASlHOYmSQICN2M"
+            "value": "5830381944:AAFOeJBwnbjVninSuITPOoYvpVlprT69SHA"
         }
     },
     "buildpacks": [
