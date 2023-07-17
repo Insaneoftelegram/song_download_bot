@@ -51,6 +51,13 @@ def a(client, message):
             print(e)
             m.edit('**👎 Nothing found Retry with another !**')
             return
+
+    #Buttons 
+
+    Client_BUTTONS=[[
+    InlineKeyboardButton("SUPPORT", url="https://t.me/Resso_support")
+    ]]
+    
     print (" Bot started ")
     
     Client.run()
